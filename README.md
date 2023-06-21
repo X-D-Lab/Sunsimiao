@@ -1,6 +1,6 @@
 # 孙思邈中医药大模型
 
-<div align=center><img width = '400' height ='400' src ="./image/Sunsimiao.png"/></div>  
+<div align=center><img width = '400' height ='400' src ="https://github.com/thomas-yanxin/Sunsimiao/blob/master/image/sunsimiao.png"/></div>  
 
 ### 模型介绍
 
