@@ -50,3 +50,13 @@ print(result)
 2. **孙思邈中文医疗大模型**由**baichuan-7B**模型微调而得, 按"原样"提供, 在任何情况下, 作者、贡献者或版权所有者均不对因软件或使用或其他软件交易而产生的任何索赔、损害赔偿或其他责任(无论是合同、侵权还是其他原因)承担责任.
 
 3. 使用**孙思邈中文医疗大模型**即表示您同意这些条款和条件, 并承认您了解其使用可能带来的潜在风险. 您还同意赔偿并使作者、贡献者和版权所有者免受因您使用**孙思邈中医药大模型**而产生的任何索赔、损害赔偿或责任的影响.
+
+### 引用
+@misc{Sunsimiao,
+  author={Xin Yan, Dong Xue},
+  title = {Sunsimiao：孙思邈中文医疗大模型},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/thomas-yanxin/Sunsimiao}},
+}
