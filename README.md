@@ -42,7 +42,14 @@ print(result)
 2. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
 3. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路和模型存储
 4. [文心一格](https://yige.baidu.com/): 生成模型logo
-
+```
+@Misc{llama-efficient-tuning,
+  title = {LLaMA Efficient Tuning},
+  author = {hiyouga},
+  howpublished = {\url{https://github.com/hiyouga/LLaMA-Efficient-Tuning}},
+  year = {2023}
+}
+```
 ### 免责申明
 
 1. **孙思邈中文医疗大模型**存在固有的局限性, 可能产生错误的、有害的、冒犯性的或其他不良的输出. 用户在关键或高风险场景中应谨慎行事, 不要使用这些模型作为最终决策参考, 以免导致人身伤害、财产损失或重大损失. 
