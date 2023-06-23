@@ -10,6 +10,12 @@
 
 目前, **Sunsimiao**是由**baichuan-7B**在10w条高质量的中文医疗数据中通过qlora微调而得, 后续将收集更多数据, 扩充模型能力, 不断迭代更新, 相关细节工作正在整理, 敬请期待.
 
+### 模型列表
+
+| 模型名称 | lora权重 | 合并后的权重 |
+| :----: | :----: | :----: |
+| Sunsimiao-0.1M | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao_lora/summary) / [huggingface](https://huggingface.co/thomas-yanxin/Sunsimiao-0.1M-lora) | [modelscope](https://modelscope.cn/models/AI-ModelScope/Sunsimiao/summary) / huggingface |
+
 ### 使用方法
 
 ```Python
