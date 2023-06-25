@@ -72,7 +72,7 @@ print(result)
 
 ```
 @misc{Sunsimiao,
-  author={Xin Yan, Dong Xue},
+  author={Xin Yan, Ming Wang, Dong Xue*},
   title = {Sunsimiao：孙思邈中文医疗大模型},
   year = {2023},
   publisher = {GitHub},
