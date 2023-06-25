@@ -1,4 +1,5 @@
 # 孙思邈中文医疗大模型
+
  <p align="center">
   <a href="https://github.com/thomas-yanxin/Sunsimiao"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://huggingface.co/thomas-yanxin/Sunsimiao-0.1M-lora"><img src="https://img.shields.io/badge/HuggingFace-yellow" alt="HuggingFace"></a>
@@ -19,7 +20,8 @@
 
 | 模型名称 | lora权重 | 合并后的权重 |
 | :----: | :----: | :----: |
-| Sunsimiao-0.1M | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao_lora/summary) / [huggingface](https://huggingface.co/thomas-yanxin/Sunsimiao-0.1M-lora) | [modelscope](https://modelscope.cn/models/AI-ModelScope/Sunsimiao/summary) / huggingface |
+| Sunsimiao-01M | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao_lora/summary) / [huggingface](https://huggingface.co/thomas-yanxin/Sunsimiao-0.1M-lora) | [modelscope](https://modelscope.cn/models/AI-ModelScope/Sunsimiao/summary) / huggingface |
+| Sunsimiao-01M-Chat | modelscope / huggingface | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-01M-Chat/summary) / huggingface |
 
 ### 使用方法
 
@@ -48,6 +50,7 @@ print(result)
 2. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
 3. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路和模型存储
 4. [文心一格](https://yige.baidu.com/): 生成模型logo
+
 ```
 @Misc{llama-efficient-tuning,
   title = {LLaMA Efficient Tuning},
@@ -56,6 +59,7 @@ print(result)
   year = {2023}
 }
 ```
+
 ### 免责申明
 
 1. **孙思邈中文医疗大模型**存在固有的局限性, 可能产生错误的、有害的、冒犯性的或其他不良的输出. 用户在关键或高风险场景中应谨慎行事, 不要使用这些模型作为最终决策参考, 以免导致人身伤害、财产损失或重大损失. 
@@ -65,6 +69,7 @@ print(result)
 3. 使用**孙思邈中文医疗大模型**即表示您同意这些条款和条件, 并承认您了解其使用可能带来的潜在风险. 您还同意赔偿并使作者、贡献者和版权所有者免受因您使用**孙思邈中医药大模型**而产生的任何索赔、损害赔偿或责任的影响.
 
 ### 引用
+
 ```
 @misc{Sunsimiao,
   author={Xin Yan, Dong Xue},
