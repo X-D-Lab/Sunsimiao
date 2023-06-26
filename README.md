@@ -21,7 +21,7 @@
 | 模型名称 | lora权重 | 合并后的权重 |
 | :----: | :----: | :----: |
 | Sunsimiao-01M | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao_lora/summary) / [huggingface](https://huggingface.co/thomas-yanxin/Sunsimiao-0.1M-lora) | [modelscope](https://modelscope.cn/models/AI-ModelScope/Sunsimiao/summary) / huggingface |
-| Sunsimiao-01M-Chat | modelscope / huggingface | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-01M-Chat/summary) / huggingface |
+| Sunsimiao-01M-Chat | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-01M-Chat-lora/summary) / huggingface | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-01M-Chat/summary) / huggingface |
 
 ### 使用方法
 
