@@ -22,7 +22,7 @@
 
 **孙思邈中文医疗大模型**(简称: Sunsimiao)希望能够遵循孙思邈的生平轨迹, 重视民间医疗经验, 不断累积中文医疗数据, 并将数据附加给模型, 致力于提供**安全、可靠、普惠**的中文医疗大模型.
 
-目前, **Sunsimiao**是由**baichuan-7B**在十万级高质量的中文医疗数据中通过qlora微调而得, 后续将收集更多数据, 扩充模型能力, 不断迭代更新, 相关细节工作正在整理, 敬请期待.
+目前, **Sunsimiao**是由**baichuan-7B**和**ChatGLM-6B系列**在十万级高质量的中文医疗数据中微调而得, 后续将收集更多数据, 扩充模型能力, 不断迭代更新. 相关细节工作正在整理, 敬请期待.
 
 ### 模型列表
 
@@ -101,7 +101,7 @@ print(result)
 
 @misc{Sunsimiao, 
   author={Xin Yan, Dong Xue*}, 
-  title = {Sunsimiao: 孙思邈中文医疗大模型}, 
+  title = {Sunsimiao: Chinese Medicine LLM}, 
   year = {2023}, 
   publisher = {GitHub}, 
   journal = {GitHub repository}, 
