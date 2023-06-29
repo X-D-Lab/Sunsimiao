@@ -1,4 +1,5 @@
-# 孙思邈中文医疗大模型
+<h1 align="center">孙思邈中文医疗大模型</h1>
+<p align="center">
 
 <p align="center">
 <a href="https://github.com/thomas-yanxin/Sunsimiao"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>

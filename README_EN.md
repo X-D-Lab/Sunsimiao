@@ -1,4 +1,4 @@
-# Sunsimiao: Chinese Medical LLM
+<h1 align="center">Sunsimiao: Chinese Medical LLM</h1>
 
 <p align="center">
 <a href="https://github.com/thomas-yanxin/Sunsimiao"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
