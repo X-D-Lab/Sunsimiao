@@ -13,7 +13,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/graphs/contributors)  
-**English | [中文](README_CN.md)**
+**[中文](README_CN.md) | [English](README_EN.md)**
 </div>
 <div align=center><img width = '400' height ='400' src ="https://github.com/thomas-yanxin/Sunsimiao/blob/master/image/sunsimiao.png"/></div>  
 
