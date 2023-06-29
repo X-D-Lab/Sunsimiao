@@ -55,7 +55,7 @@ print(result)
 | 对于使用NOACs的患者接种COVID-疫苗, 需要注意哪些事项? | 对于使用NOACs的患者接种COVID-19疫苗, 需要特别注意以下几点:<br/>1. 建议在接种前咨询医生, 了解是否适合接种.<br/>2. 在接种期间和接种后一周内, 应避免进行剧烈运动、重体力劳动等活动, 以防出现出血等不良反应.<br/>3. 如果患者正在服用NOACs药物, 应该告知医生, 以便医生根据具体情况决定是否可以接种疫苗.<br/>4. 如果患者有任何不适或疑虑, 应及时就医并告知医生疫苗接种的情况. | 1. 患者在接受NOAC治疗期间应避免接种疫苗.<br/>2. 如果必须进行疫苗接种, 建议咨询医生的意见并遵循以下指导: <br/>a) 在开始任何一种疫苗之前, 需要告知您的医疗团队您正在服用NOAC药物; <br/>b) NOAC药物可能会影响某些疫苗的效果和安全性, 因此请务必告诉您的医疗团队您正在使用的所有药物(包括非处方药、草药等); <br/>c) 对于那些已经完成NOAC治疗并且没有出现严重副作用的患者来说, 他们可以考虑接种新冠疫苗. 但是, 如果他们在过去6个月内曾发生过严重的出血事件或血栓形成史, 则不应该接种新冠疫苗.<br/>3. 请注意, 如果您有任何疑问或担忧, 请及时与您的医疗团队联系以获取更多信息. |
 
 ### 致谢
-
+本项目由**华东理工大学 信息学院 薛栋课题组**发起，并受到以下项目及平台的大力支持，在此表示感谢！
 1. [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning): 提供微调代码
 2. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
 3. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路和模型存储
@@ -69,6 +69,9 @@ print(result)
   year = {2023}
 }
 ```
+<a href="https://github.com/thomas-yanxin/Sunsimiao/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thomas-yanxin/Sunsimiao" />
+</a>  
 
 ### 免责申明
 
