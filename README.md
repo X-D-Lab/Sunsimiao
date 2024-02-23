@@ -17,7 +17,7 @@
 </div>
 <div align=center><img width = '400' height ='400' src ="./image/sunsimiao.png"/></div>  
 
-[此REPO后续将在此处进行维护！](https://openi.pcl.ac.cn/ColugoMum/Exprements-public/src/branch/main/PaddleClas/deploy/python/build_gallery.py)
+
 ### 模型介绍
 
 **孙思邈**, 唐代医药学家、道士, 被后人尊称为"药王". 其十分重视民间的医疗经验, 不断积累走访, 及时记录下来, 写下著作《千金要方》. 唐朝建立后, 孙思邈接受朝廷的邀请, 与政府合作开展医学活动, 完成了世界上第一部国家药典《唐新本草》.  
