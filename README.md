@@ -15,6 +15,14 @@
 [![GitHub Contributors](https://img.shields.io/github/contributors/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/graphs/contributors)  
 **[中文](README_CN.md) | [English](README_EN.md)**
 </div>
+
+<div align="center">
+
+👋 **联系我们**: xd.lab2023@gmail.com
+
+</div>
+
+
 <div align=center><img width = '400' height ='400' src ="./image/sunsimiao.png"/></div>  
 
 
