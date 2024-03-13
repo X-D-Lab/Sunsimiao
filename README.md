@@ -32,7 +32,7 @@
 
 **孙思邈中文医疗大模型**(简称: Sunsimiao)希望能够遵循孙思邈的生平轨迹, 重视民间医疗经验, 不断累积中文医疗数据, 并将数据附加给模型, 致力于提供**安全、可靠、普惠**的中文医疗大模型.
 
-目前, **Sunsimiao**是由**baichuan-7B**和**ChatGLM-6B系列**在十万级高质量的中文医疗数据中微调而得, 后续将收集更多数据, 扩充模型能力, 不断迭代更新. 相关细节工作正在整理, 敬请期待.
+目前, **Sunsimiao**是由**InternLM-7B**、**baichuan-7B**和**ChatGLM-6B系列**在十万级高质量的中文医疗数据中微调而得, 后续将收集更多数据, 扩充模型能力, 不断迭代更新. 相关细节工作正在整理, 敬请期待.
 
 ### 模型列表
 
@@ -81,6 +81,17 @@ print(result)
 2. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
 3. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路和模型存储
 4. [文心一格](https://yige.baidu.com/): 生成模型logo
+   
+<div align="center">
+
+***感谢上海人工智能实验室组织的 书生·浦语实战营 学习活动~***
+
+***感谢 浦语小助手 对项目的支持~***
+
+***感谢上海人工智能实验室推出的书生·浦语大模型实战营，为我们的项目提供宝贵的技术指导和强大的算力支持！***
+
+[**InternLM-tutorial**](https://github.com/InternLM/tutorial)、[**InternStudio**](https://studio.intern-ai.org.cn/)、[**xtuner**](https://github.com/InternLM/xtuner)
+</div>
 
 ```
 
