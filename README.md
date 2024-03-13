@@ -79,15 +79,14 @@ print(result)
 本项目由**华东理工大学 信息科学与工程学院 薛栋副教授**发起, 并受到以下项目及平台的大力支持, 在此表示感谢!
 1. [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning): 提供微调代码
 2. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
-3. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路和模型存储
+3. **魔搭ModelScope、OpenXLab、Huggingface**：模型存储和体验空间;
 4. [文心一格](https://yige.baidu.com/): 生成模型logo
 
-感谢上海人工智能实验室推出的书生·浦语大模型实战营，为我们的项目提供宝贵的技术指导和强大的算力支持! [**InternLM-tutorial**](https://github.com/InternLM/tutorial)、[**InternStudio**](https://studio.intern-ai.org.cn/)、[**xtuner**](https://github.com/InternLM/xtuner)   
+特别感谢**上海人工智能实验室推出的书生·浦语大模型实战营**、[**InternStudio**](https://studio.intern-ai.org.cn/)为我们的项目提供宝贵的技术指导和强大的算力支持! 
 <div align="center">
 </div>
 
 ```
-
 @Misc{llama-efficient-tuning, 
   title = {LLaMA Efficient Tuning}, 
   author = {hiyouga}, 
@@ -95,6 +94,19 @@ print(result)
   year = {2023}
 }
 
+@article{qwen,
+  title={Qwen Technical Report},
+  author={Jinze Bai and Shuai Bai and Yunfei Chu and Zeyu Cui and Kai Dang and Xiaodong Deng and Yang Fan and Wenbin Ge and Yu Han and Fei Huang and Binyuan Hui and Luo Ji and Mei Li and Junyang Lin and Runji Lin and Dayiheng Liu and Gao Liu and Chengqiang Lu and Keming Lu and Jianxin Ma and Rui Men and Xingzhang Ren and Xuancheng Ren and Chuanqi Tan and Sinan Tan and Jianhong Tu and Peng Wang and Shijie Wang and Wei Wang and Shengguang Wu and Benfeng Xu and Jin Xu and An Yang and Hao Yang and Jian Yang and Shusheng Yang and Yang Yao and Bowen Yu and Hongyi Yuan and Zheng Yuan and Jianwei Zhang and Xingxuan Zhang and Yichang Zhang and Zhenru Zhang and Chang Zhou and Jingren Zhou and Xiaohuan Zhou and Tianhang Zhu},
+  journal={arXiv preprint arXiv:2309.16609},
+  year={2023}
+}
+
+@misc{2023internlm,
+    title={InternLM: A Multilingual Language Model with Progressively Enhanced Capabilities},
+    author={InternLM Team},
+    howpublished = {\url{https://github.com/InternLM/InternLM-techreport}},
+    year={2023}
+}
 ```
 
 <a href="https://github.com/thomas-yanxin/Sunsimiao/graphs/contributors">
