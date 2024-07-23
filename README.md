@@ -32,7 +32,7 @@
 
 **🔥更好的模型永远在路上!🔥**
 
-* **:rocket:[new!]**  **[Jul 23,2024]   Sunsimiao-7B发布！**
+* **[Jul 23,2024]**:rocket::rocket::rocket:**[new!]&nbsp;&nbsp; Sunsimiao-7B发布！**
 
 * [Jul 6, 2023] **首次**提交孙思邈（Sunsimiao）中文医疗大模型
 
@@ -59,15 +59,16 @@
 
 
 
-### 🔬 数据详情
+### 📚 数据详情
 
 **Sunsimiao**的各个版本训练数据均取自我们精心构建的**医疗数据池**，该数据池融合各类**医疗文献及教材、多科室诊断数据、海量医疗问诊对话、医学知识问答、病历分析**等，基于**开源数据**和**GPT4自动构建**，经**人工清洗标注、自动化数据分析处理**所得。
-![img](./image/data_info.png)
+<div align='center'><img src='./image/data_info.png' width='750px'></div>
+
 **该数据池仍在持续更新中！** 部分数据样例参考：`data/example_single.json` `data/example_multi.json`
 
 
 
-### 模型评估
+### 🎓 模型评估
 ##### CMB-Exam
 **Sunsimiao-7B**在**CMB-Exam**中具体表现如下：
 <div align='center'><img src='./image/cmb_eval.png' width='550px'></div>
@@ -75,7 +76,7 @@
 注：图中模型分数均取自CMB榜单数据，详情见：[CMB-Leaderboard](https://cmedbenchmark.llmzoo.com/static/leaderboard.html)
 
 ##### 考试表现
-<div align='center'>
+<div align='left'>
 
 | 模型名称 | 考试名称 | 题目数量 | 准确率 |
 | :----: | :----: | :----: | :----: |
@@ -85,7 +86,7 @@
 
 </div>
 
-### 使用方法
+### 🔓 使用方法
 
 ```Python
 from modelscope.pipelines import pipeline
