@@ -26,6 +26,7 @@
 <div align=center><img width = '400' height ='400' src ="./image/sunsimiao.png"/></div>  
 
 </div>
+
 <br>
 
 ### 🎉 项目进展
@@ -33,6 +34,7 @@
 **🔥更好的模型永远在路上!🔥**
 
 * **[Jul 23,2024][new!]**:rocket::rocket::rocket:**&nbsp;&nbsp; Sunsimiao-7B发布！**
+
 
 * [Jul 6, 2023] **首次**提交孙思邈（Sunsimiao）中文医疗大模型
 
