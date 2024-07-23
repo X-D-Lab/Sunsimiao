@@ -32,7 +32,7 @@
 
 **🔥更好的模型永远在路上!🔥**
 
-* **[Jul 23,2024]**:rocket::rocket::rocket:**[new!]&nbsp;&nbsp; Sunsimiao-7B发布！**
+* **[Jul 23,2024][new!]**:rocket::rocket::rocket:**&nbsp;&nbsp; Sunsimiao-7B发布！**
 
 * [Jul 6, 2023] **首次**提交孙思邈（Sunsimiao）中文医疗大模型
 
