@@ -23,7 +23,7 @@
 </div>
 
 
-<div align=center><img width = '400' height ='400' src ="./image/sunsimiao.png"/></div>  
+<div align=center><img width = '400' height ='400' src ="https://github.com/X-D-Lab/Sunsimiao/blob/master/image/sunsimiao.png"/></div>  
 
 </div>
 
@@ -64,7 +64,7 @@
 ### 📚 数据详情
 
 **Sunsimiao**的各个版本训练数据均取自我们精心构建的**医疗数据池**，该数据池融合各类**医疗文献及教材、多科室诊断数据、海量医疗问诊对话、医学知识问答、病历分析**等，基于**开源数据**和**GPT4自动构建**，经**人工清洗标注、自动化数据分析处理**所得。
-<div align='center'><img src='./image/data_info.png' width='750px'></div>
+<div align='center'><img src='https://github.com/X-D-Lab/Sunsimiao/blob/master/image/data_info.png' width='750px'></div>
 
 **该数据池仍在持续更新中！** 部分数据样例参考：`data/example_single.json` `data/example_multi.json`
 
@@ -73,9 +73,9 @@
 ### 🎓 模型评估
 ##### CMB-Exam
 **Sunsimiao-7B**在**CMB-Exam**中具体表现如下：
-<div align='center'><img src='./image/cmb_eval.png' width='550px'></div>
+<div align='center'><img src='https://github.com/X-D-Lab/Sunsimiao/blob/master/image/cmb_eval.png' width='550px'></div>
 
-注：图中模型分数均取自CMB榜单数据，详情见：[CMB-Leaderboard](https://cmedbenchmark.llmzoo.com/static/leaderboard.html)
+注：图中模型分数均取自CMB榜单数据，具体分数统计于`data/cmb_compare.xlsx`，详见：[CMB-Leaderboard](https://cmedbenchmark.llmzoo.com/static/leaderboard.html)
 
 ##### 考试表现
 <div align='left'>
