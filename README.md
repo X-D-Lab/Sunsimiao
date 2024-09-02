@@ -75,7 +75,7 @@
 **Sunsimiao-7B**在**CMB-Exam**中具体表现如下：
 <div align='center'><img src='https://github.com/X-D-Lab/Sunsimiao/blob/master/image/cmb_eval.png' width='550px'></div>
 
-注：图中模型分数均取自CMB榜单数据，详情见：[CMB-Leaderboard](https://cmedbenchmark.llmzoo.com/static/leaderboard.html)
+注：图中模型分数均取自CMB榜单数据，具体分数统计于`data/cmb_compare.xlsx`，详见：[CMB-Leaderboard](https://cmedbenchmark.llmzoo.com/static/leaderboard.html)
 
 ##### 考试表现
 <div align='left'>
