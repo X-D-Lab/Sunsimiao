@@ -14,6 +14,8 @@
 [![GitHub Forks](https://img.shields.io/github/forks/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/graphs/contributors)  
 **[中文](README_CN.md) | [English](README_EN.md)**
+
+**在线体验：[ModelScope](https://modelscope.cn/studios/jingnant/Sunsimiao)**
 </div>
 
 <div align="center">
@@ -29,18 +31,18 @@
 
 <br>
 
-### 🎉 项目进展
+## 🎉 项目进展
+
 
 **🔥更好的模型永远在路上!🔥**
 
-* **[Jul 23,2024][new!]**:rocket::rocket::rocket:**&nbsp;&nbsp; Sunsimiao-7B发布！**
+* Sept 9,2024： **提供Sunsimiao-7B**模型**在线体验**，欢迎前往[ModelScope](https://modelscope.cn/studios/jingnant/Sunsimiao)体验模型！
+  
+* Jul 23,2024： **开源**7B量级模型**Sunsimiao-7B**！由Qwen2-7B微调而得。
+  
+* Jul 6, 2023： **首次**提交孙思邈（Sunsimiao）中文医疗大模型
 
-
-* [Jul 6, 2023] **首次**提交孙思邈（Sunsimiao）中文医疗大模型
-
-<br>
-
-### 🌈  模型介绍
+## 🌈  模型介绍
 
 **孙思邈**, 唐代医药学家、道士, 被后人尊称为"药王". 其十分重视民间的医疗经验, 不断积累走访, 及时记录下来, 写下著作《千金要方》. 唐朝建立后, 孙思邈接受朝廷的邀请, 与政府合作开展医学活动, 完成了世界上第一部国家药典《唐新本草》.  
 
@@ -50,7 +52,7 @@
 
 
 
-### 📅  模型列表
+## 📅  模型列表
 
 | 模型名称 | lora权重 | 合并后的权重 |
 | :----: | :----: | :----: |
@@ -61,7 +63,7 @@
 
 
 
-### 📚 数据详情
+## 📚 数据详情
 
 **Sunsimiao**的各个版本训练数据均取自我们精心构建的**医疗数据池**，该数据池融合各类**医疗文献及教材、多科室诊断数据、海量医疗问诊对话、医学知识问答、病历分析**等，基于**开源数据**和**GPT4自动构建**，经**人工清洗标注、自动化数据分析处理**所得。
 <div align='center'><img src='https://github.com/X-D-Lab/Sunsimiao/blob/master/image/data_info.png' width='750px'></div>
@@ -70,14 +72,14 @@
 
 
 
-### 🎓 模型评估
+## 🎓 模型评估
 ##### CMB-Exam
 **Sunsimiao-7B**在**CMB-Exam**中具体表现如下：
 <div align='center'><img src='https://github.com/X-D-Lab/Sunsimiao/blob/master/image/cmb_eval.png' width='550px'></div>
 
 注：图中模型分数均取自CMB榜单数据，具体分数统计于`data/cmb_compare.xlsx`，详见：[CMB-Leaderboard](https://cmedbenchmark.llmzoo.com/static/leaderboard.html)
 
-##### 考试表现
+#### 考试表现
 <div align='left'>
 
 | 模型名称 | 考试名称 | 题目数量 | 准确率 |
@@ -88,7 +90,7 @@
 
 </div>
 
-### 🔓 使用方法
+## 🔓 使用方法
 
 ```Python
 from modelscope.pipelines import pipeline
