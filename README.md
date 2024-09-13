@@ -36,9 +36,11 @@
 
 **🔥更好的模型永远在路上!🔥**
 
+* Sept 12,2024： **上传Sunsimiao-7B**至[WiseModel](https://wisemodel.cn/models/Alanjn/Sunsimiao-7B-Qwen2/intro),以供下载
+
 * Sept 9,2024： **提供Sunsimiao-7B**模型**在线体验**，欢迎前往[ModelScope](https://modelscope.cn/studios/jingnant/Sunsimiao)体验模型！
   
-* Jul 23,2024： **开源**7B量级模型**Sunsimiao-7B**！由Qwen2-7B微调而得。
+* Jul 23,2024： **开源**7B量级模型**Sunsimiao-7B**！由**Qwen2-7B**微调而得，擅长于**医学问答、医学考试**。
   
 * Jul 6, 2023： **首次**提交孙思邈（Sunsimiao）中文医疗大模型
 
@@ -56,7 +58,7 @@
 
 | 模型名称 | lora权重 | 合并后的权重 |
 | :----: | :----: | :----: |
-| :new:Sunsimiao-7B |🤖modelscope / 🤗huggingface|[🤖modelscope](https://www.modelscope.cn/models/X-D-Lab/Sunsimiao-Qwen2-7B) / 🤗huggingface|
+| :new:Sunsimiao-7B |🤖modelscope / 🤗huggingface|[🤖modelscope](https://www.modelscope.cn/models/X-D-Lab/Sunsimiao-Qwen2-7B) /✡️[WiseModel](https://wisemodel.cn/models/Alanjn/Sunsimiao-7B-Qwen2/intro)/ 🤗huggingface|
 | Sunsimiao-01M | [🤖modelscope](https://modelscope.cn/models/thomas/Sunsimiao_lora/summary) / [🤗huggingface](https://huggingface.co/thomas-yanxin/Sunsimiao-0.1M-lora) | [🤖modelscope](https://modelscope.cn/models/AI-ModelScope/Sunsimiao/summary) / 🤗huggingface |
 | Sunsimiao-01M-Chat | [🤖modelscope](https://modelscope.cn/models/thomas/Sunsimiao-01M-Chat-lora/summary) / 🤗huggingface | [🤖modelscope](https://modelscope.cn/models/thomas/Sunsimiao-01M-Chat/summary) / 🤗huggingface |
 | Sunsimiao-01M-6B | 🤖modelscope / 🤗huggingface | [🤖modelscope](https://modelscope.cn/models/thomas/Sunsimiao-6B/summary) / 🤗huggingface |
